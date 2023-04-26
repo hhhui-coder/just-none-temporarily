@@ -3,7 +3,7 @@ package miniDVD;
 /**
  * @ClassName DVDset
  * @Description TODO
- * @Author 惠延旭
+ * @Author 鸡哥
  * @Date 2023/4/25
  * @Version 1.0
  */
